@@ -1,0 +1,11 @@
+{
+  "server_locked": false,
+  "lock_message": "🔒 Server đang bảo trì, vui lòng quay lại sau!",
+  "key": "123456",
+  "expired_message": "❌ Key sai, vui lòng nhập lại!",
+  "empty_message": "❌ Vui lòng nhập key!",
+  "server_error": "⚠️ Lỗi kết nối server!",
+  "success_message": "✅ Key đúng! Hẹn gặp lại vào 2 ngày sau nhé",
+  "title": "Tumadam Mod",
+  "countdown": 40
+}
